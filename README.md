@@ -9,3 +9,7 @@
 1. Anthony Davis
 2. Max Christie
 3. Sterling Brown
+
+* Miami Heat
+* Detroit Pistons
+* Brooklyn Nets
