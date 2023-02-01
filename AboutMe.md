@@ -14,3 +14,11 @@ I want to visit the counrties that are mentioned in below table
 | Turkey | The majority of Turkey's tourist attractions are historical sites and beach resorts around the Aegean and Mediterranean Seas. In addition, Turkey has gained popularity as a spa, wellness, and cultural getaway. | 10 days|
 | Australia | One of the most desirable travel destinations in the world is Australia, with its stunning natural surroundings, multicultural cultures, top-notch food and wine, weather, way of life, and welcoming and outgoing population. | 15 days |
 
+----
+# Funny Quotes
+
+>  “It's not true that I had nothing on. I had the radio on.” *-Marilyn Monroe*
+
+>  “I’m writing a book. I’ve got the page numbers done.”  *-Steven Wright*
+
+
