@@ -41,6 +41,3 @@ Question Link <https://stackoverflow.com/questions/16415898/how-to-make-automati
 ```
 Link to access the code snippet <https://css-tricks.com/snippets/php/automatic-copyright-year/>
  
-
-
-
