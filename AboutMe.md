@@ -5,7 +5,7 @@ I am Manasa Akula. I am passionte about learning new technologies so, I choose c
  
  -----
 ## Countries to visit
-I want to visit the countries that are mentioned in below table. Which are the top destinations for travelers to spend the quality time.
+I want to visit the countries that are mentioned in below table. Which are the top destinations for travelers to spend the quality time. There are four countries and reasons to visit are mentioned below.
 
 | Country Name | Reasons to visit | Days to spend |
 |   -----    | ----- | ----- |
