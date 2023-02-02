@@ -5,7 +5,7 @@ I am Manasa Akula. I am passionte about learning new technologies so, I choose c
  
  -----
 ## Countries to visit
-I want to visit the counrties that are mentioned in below table
+I want to visit the countries that are mentioned in below table. Which are the top destinations for travelers to spend the quality time.
 
 | Country Name | Reasons to visit | Days to spend |
 |   -----    | ----- | ----- |
@@ -20,5 +20,27 @@ I want to visit the counrties that are mentioned in below table
 >  “It's not true that I had nothing on. I had the radio on.” *-Marilyn Monroe*
 
 >  “I’m writing a book. I’ve got the page numbers done.”  *-Steven Wright*
+
+----
+## Code Fencing
+### PHP Code
+
+How to make automatic copyright webpage footer in php using a function?
+
+Question Link <https://stackoverflow.com/questions/16415898/how-to-make-automatic-copyright-webpage-footer-in-php-using-a-function/16415925#16415925>
+
+
+```
+<?php function auto_copyright($year = 'auto'){ ?>
+   <?php if(intval($year) == 'auto'){ $year = date('Y'); } ?>
+   <?php if(intval($year) == date('Y')){ echo intval($year); } ?>
+   <?php if(intval($year) < date('Y')){ echo intval($year) . ' - ' . date('Y'); } ?>
+   <?php if(intval($year) > date('Y')){ echo date('Y'); } ?>
+<?php } ?>
+
+```
+Link to access the code snippet <https://css-tricks.com/snippets/php/automatic-copyright-year/>
+ 
+
 
 
